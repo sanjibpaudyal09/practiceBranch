@@ -6,6 +6,7 @@ public class GitPractice {
 		// after cloning
 		// start
 		// git practicing
+		//git status
 
 	}
 
